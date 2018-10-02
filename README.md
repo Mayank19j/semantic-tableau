@@ -1,2 +1,2 @@
 # semantic-tableau-cpp
-semantic tableau is method of finding whether the given logic (propositional logic here) is consistent or inconsistent
+semantic tableau is method of finding whether the given logic (propositional logic here) is consistent or inconsistent, whether it is valid (tautology) or not.
